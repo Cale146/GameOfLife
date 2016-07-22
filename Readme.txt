@@ -5,7 +5,7 @@ Classes are as follows:
 **GameOfLife.java -- This class contains three methods:
     1. getNeighborCells - Counts surrounding cells, returns count.
     2. liveOrDie - Makes decision based of Game Of Life rules, returns 1 or 0 for new grid.
-    3. cycleArray - Cycles through current array, placing 1 or 0 in new array, then returns new array.
+    3. cycleArray - Cycles through current array, placing 1 or 0 in new array, then returns new       array.
 
 **GameOfLifeMain.java -- This class creates the UI and visually executes the Game Of Life:
 
@@ -25,7 +25,7 @@ Classes are as follows:
     - Run GameOfLifeTest.java
 
 **To Run the Game Of Life UI Simulation**
-    - Run GameOfLifeMain.java.  It is currently configured to simulate the 10 Cell Row pattern in a 25x25 grid.
+    - Run GameOfLifeMain.java.  It is currently configured to simulate the 10 Cell Row pattern in a       25x25 grid.
 
 **To Tweak the Grid Size or pattern**
     Size -- In TheGrid.java, change height/width of grid by adjusting the corresponding integers.
