@@ -34,7 +34,7 @@ public class TheGrid {
                 }
                 */
 
-                //fixed grid logic
+                //fixed grid logic (10 cell row)
                 int n = 0;
                 if(i == 12 && j > 7 && j <= 17)
                 {
