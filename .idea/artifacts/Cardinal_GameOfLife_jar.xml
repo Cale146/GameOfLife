@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Cardinal_GameOfLife:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Cardinal_GameOfLife_jar</output-path>
+    <root id="archive" name="Cardinal_GameOfLife.jar">
+      <element id="module-output" name="Cardinal_GameOfLife" />
+    </root>
+  </artifact>
+</component>
