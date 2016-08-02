@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Cardinal_GameOfLife">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Cardinal_GameOfLife_jar/Cardinal_GameOfLife.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

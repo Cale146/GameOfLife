@@ -1,8 +1,4 @@
-import java.lang.reflect.Array;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Random;
-import java.util.Scanner;
 
 /**
  * Created by jonesdc on 7/2/16.
