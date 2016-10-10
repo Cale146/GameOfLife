@@ -1,5 +1,11 @@
 This is a Game Of Life Implementation in Java.  It contains a test class for Test Driven Development and a main class for executing the Game Of Life in a UI.  To build, import the project into your favorite Java IDE.  This was exported via command line/git from IntelliJ IDEA 15.0.5.
 
+The game of life rules are as follows:
+1. Any live cell with fewer than two live neighbours dies, as if caused by under-population.
+2. Any live cell with two or three live neighbours lives on to the next generation.
+3. Any live cell with more than three live neighbours dies, as if by over-population.
+4. Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
+
 Classes are as follows:
 
 **GameOfLife.java -- This class contains three methods:
