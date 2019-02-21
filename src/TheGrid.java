@@ -15,10 +15,8 @@ public class TheGrid {
         Random rand = new Random();
 
         //logic to generate original ArrayList
-        for (int i = 0; i < height; i++)
-        {
-            for (int j = 0; j < width; j++)
-            {
+        for (int i = 0; i < height; i++) {
+            for (int j = 0; j < width; j++) {
                 // Random grid logic
                 /*
                 int n = rand.nextInt(Integer.MAX_VALUE); //positive numbers only
@@ -32,8 +30,7 @@ public class TheGrid {
 
                 //10 Cell Row
                 int n = 0;
-                if(i == 12 && j > 7 && j <= 17)
-                {
+                if(i == 12 && j > 7 && j <= 17) {
                     n =1;
                 }
                 //System.out.print(n + " ");

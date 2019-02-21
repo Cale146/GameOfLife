@@ -29,8 +29,7 @@ public class GameOfLifeMain extends Frame {
                         buttons[i].setBackground(Color.white);
                         buttons[i].setText("Alive");
                     }
-                    else
-                    {
+                    else {
                         buttons[i].setBackground(Color.DARK_GRAY);
                         buttons[i].setText("Dead");
                     }
